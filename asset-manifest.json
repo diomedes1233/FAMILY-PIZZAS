@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/repository-app-pizzas/static/css/main.8d72de43.chunk.css",
+    "main.js": "/repository-app-pizzas/static/js/main.fafd36e5.chunk.js",
+    "main.js.map": "/repository-app-pizzas/static/js/main.fafd36e5.chunk.js.map",
+    "runtime-main.js": "/repository-app-pizzas/static/js/runtime-main.0b2b81f1.js",
+    "runtime-main.js.map": "/repository-app-pizzas/static/js/runtime-main.0b2b81f1.js.map",
+    "static/js/2.7d69e67a.chunk.js": "/repository-app-pizzas/static/js/2.7d69e67a.chunk.js",
+    "static/js/2.7d69e67a.chunk.js.map": "/repository-app-pizzas/static/js/2.7d69e67a.chunk.js.map",
+    "index.html": "/repository-app-pizzas/index.html",
+    "static/css/main.8d72de43.chunk.css.map": "/repository-app-pizzas/static/css/main.8d72de43.chunk.css.map",
+    "static/js/2.7d69e67a.chunk.js.LICENSE.txt": "/repository-app-pizzas/static/js/2.7d69e67a.chunk.js.LICENSE.txt",
+    "static/media/Carnes.a024a6ad.jpg": "/repository-app-pizzas/static/media/Carnes.a024a6ad.jpg",
+    "static/media/Countrys.35b16a5b.jpg": "/repository-app-pizzas/static/media/Countrys.35b16a5b.jpg",
+    "static/media/HamburguesaDobleCarneArtesanal.2cd5be2e.png": "/repository-app-pizzas/static/media/HamburguesaDobleCarneArtesanal.2cd5be2e.png",
+    "static/media/HamburguesaEspecialDeCarne.47c013f7.jpg": "/repository-app-pizzas/static/media/HamburguesaEspecialDeCarne.47c013f7.jpg",
+    "static/media/HamburguesaEspecialDePollo.300acd6c.jpg": "/repository-app-pizzas/static/media/HamburguesaEspecialDePollo.300acd6c.jpg",
+    "static/media/HamburguesaMixta.354bdde8.jpg": "/repository-app-pizzas/static/media/HamburguesaMixta.354bdde8.jpg",
+    "static/media/HamburguesaSecillaDePollo.9181a20d.png": "/repository-app-pizzas/static/media/HamburguesaSecillaDePollo.9181a20d.png",
+    "static/media/HamburguesaSencillaDeCarne.77db9956.jpg": "/repository-app-pizzas/static/media/HamburguesaSencillaDeCarne.77db9956.jpg",
+    "static/media/Hawallana.1a77a9be.jpg": "/repository-app-pizzas/static/media/Hawallana.1a77a9be.jpg",
+    "static/media/Napolitana.193133da.jpg": "/repository-app-pizzas/static/media/Napolitana.193133da.jpg",
+    "static/media/Perro.6498076f.png": "/repository-app-pizzas/static/media/Perro.6498076f.png",
+    "static/media/PolloChampiñon.fa359842.png": "/repository-app-pizzas/static/media/PolloChampiñon.fa359842.png",
+    "static/media/Ranchera.118c17b8.jpg": "/repository-app-pizzas/static/media/Ranchera.118c17b8.jpg",
+    "static/media/Tropical.01b2e0bc.png": "/repository-app-pizzas/static/media/Tropical.01b2e0bc.png",
+    "static/media/Vejetariana.a5682b21.jpg": "/repository-app-pizzas/static/media/Vejetariana.a5682b21.jpg",
+    "static/media/polloDoble.431f5a83.jpg": "/repository-app-pizzas/static/media/polloDoble.431f5a83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2b81f1.js",
+    "static/js/2.7d69e67a.chunk.js",
+    "static/css/main.8d72de43.chunk.css",
+    "static/js/main.fafd36e5.chunk.js"
+  ]
+}
