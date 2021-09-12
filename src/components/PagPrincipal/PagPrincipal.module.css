@@ -1,0 +1,14 @@
+.text {
+  display: grid;
+  width: 40%;
+  background-color: chartreuse;
+  margin-left: 30%;
+}
+
+.image {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 230px);
+  gap: 40px;
+  padding: 40px;
+  justify-content: center;
+}
