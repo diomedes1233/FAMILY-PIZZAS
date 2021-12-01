@@ -6,7 +6,7 @@ import perro from '../../assets/img/Perro.png'
 
 function PagPrincipal() {
   return (
-    <div>
+    <div className={styles.container}>
       <section className={styles.text}>
         Bienvenidos a pizza famili.com Un lugar familiar acogedor para venga y
         disfrute con tu familia de nuestras deliciosas pizzas y comidas rápidas
